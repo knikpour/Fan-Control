@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Fan-Control.vcxproj" />
+  <Project Path="Fan-Control.vcxproj" Id="d57a2373-f5bd-43fc-b31c-79e3c785fa73" />
 </Solution>
